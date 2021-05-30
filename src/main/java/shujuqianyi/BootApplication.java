@@ -1,4 +1,4 @@
-package shujuqianyi;
+﻿package shujuqianyi;
 
 import java.io.BufferedInputStream;
 import java.io.File;
@@ -30,7 +30,7 @@ public class BootApplication {
 		ApplicationContext applicationContext = SpringApplication.run(BootApplication.class, args);
 
 		DataOp dataOp = applicationContext.getBean(DataOp.class);
-        //hulauadkfjajfjaafafdadfadsfS
+        //hulauadkfjajfjaafafdadfadsfStetststtt
 		
 		//dataOp.insertImage("C:\\Users\\Administrator\\Desktop\\捕获.PNG");
 		
