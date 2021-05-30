@@ -32,7 +32,7 @@ public class BootApplication {
 		DataOp dataOp = applicationContext.getBean(DataOp.class);
         //hulauadkfjajfjaafafdadfadsfStessfrgqrgraaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaatststttrgsdfgadgsfgsdfgfsgsdgsdf1dafasdfassdfdsfasdfasdfasdfasdfassdfasdf1111111111111111111111111111111111111111111111111
 		
-		//dataOp.insertImage("C:\\Users\\Administrator\\Desktop\\捕获.PNG");
+		//dataOp.insertfasdfasdfadfImage("C:\\Users\\Administrator\\Desktop\\捕获.PNG");
 		
 		System.out.println(dataOp.getImage());
 		
