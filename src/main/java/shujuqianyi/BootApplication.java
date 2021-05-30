@@ -30,7 +30,7 @@ public class BootApplication {
 		ApplicationContext applicationContext = SpringApplication.run(BootApplication.class, args);
 
 		DataOp dataOp = applicationContext.getBean(DataOp.class);
-        //hulauadkfjajfja
+        //hulauadkfjajfjaafafdadfadsfS
 		
 		//dataOp.insertImage("C:\\Users\\Administrator\\Desktop\\捕获.PNG");
 		
